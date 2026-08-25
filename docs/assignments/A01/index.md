@@ -24,6 +24,10 @@ The patent number for this coil spring assembly is US10385940B2 and it was inven
 
 ## Decide
 
+This portfolio is for future employers and fellow colleagues to get an understanding of the thought process used to write these pages. As industries expand to seek out fresh ideas and perspectives, this website aims to provide an adequate alternative to align with industry standards and add a new and creative mind to the design process to continue improving mechanical systems all throughout. The product analysis and observations made previously aim to prove deeper comprehension and detail to subject matters not many pursue, with the added benefit of being able to inspire others to think beyond the superficial and build upon this page and others alike to find better success.
 
-## Communicate
+As an edit to the template provided, the "Communicate" section has been removed from this page considering it is not necessary for the completion of an adequate introduction. The removal of this section aims to streamline the reader's experience and better organize the multitude of text found in this website for more efficient editing and for less clutter upon reading.
+
+The quality that this deployable intends to achieve will be focused on providing adequate analysis and documentation of the required/desired research to focus primarily on the study of mechanical systems and research analysis as opposed to reaching a final answer or deliverable.
+
 
