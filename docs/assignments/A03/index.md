@@ -27,3 +27,5 @@ The graphs pictured above were all modeled with the aluminum's Young modulus tha
 ## Communicate
 
 This assignment took around 3 hours from start to finish, with the largest portion of the time taken being the analysis of the data of hand calculations versus simulation results. I would trust the simulation more as it analyses the stresses and strains throughout the mesh providing a more thorough study of the material and its construction. I learned during this time the importance of FEA, as well as how to utilize CAD software as a tool when designing a beam and choosing parameters that might better suit the given constraints.
+
+The CAD file where all this work was completed can be downloaded at https://drive.google.com/file/d/1D7IvLH-rnGdI72ny3IndaEkt4vTZW5EC/view?usp=sharing 
